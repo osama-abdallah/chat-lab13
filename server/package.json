@@ -1,0 +1,26 @@
+{
+  "name": "message-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhsalameh/Message-Queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhsalameh/Message-Queue/issues"
+  },
+  "homepage": "https://github.com/Mhsalameh/Message-Queue#readme",
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.2.0",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}
